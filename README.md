@@ -1,1 +1,1 @@
-# hr-web
+# Houra recipe test fixture
